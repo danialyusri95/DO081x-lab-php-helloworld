@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Hi my name is Danialyusri, cloud computing expert! Please go to my GitHub account https://github.com/danialyusri95";
 ?>
